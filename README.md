@@ -1,4 +1,4 @@
-# Java_Sockets_RMI_Cryptography_Inventory_System
+# Java Sockets RMI Cryptography Inventory System
 
 This project is a secure distributed system for managing stock inventory using Java, RMI (Remote Method Invocation), and socket communication. The system allows multiple clients to manage inventory, receive real-time notifications, and ensures secure communication using 256-bit public-key cryptography.
 
