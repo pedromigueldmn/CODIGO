@@ -1,0 +1,13 @@
+/.DS_Store
+/ClienteRMI$1.class
+/ClienteRMI.class
+/ClienteSocket$1.class
+/ClienteSocket.class
+/Inventario.class
+/Produto.class
+/SecureDirectNotification.class
+/SecureDirectNotificationImpl.class
+/Servidor$ClienteHandler.class
+/Servidor$StockServerImpl.class
+/Servidor.class
+/StockServer.class
